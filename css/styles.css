@@ -46,7 +46,7 @@ img {
 
 h2 {
   font-size: 36px;
-  line-height: 1 16;
+  line-height: 1.16;
   letter-spacing: 0.03em;
 }
 
@@ -437,7 +437,7 @@ a {
   font-weight: 700;
   font-size: 14px;
   line-height: 16px;
-  letter-spacing: 1 14;
+  letter-spacing: 1.14;
   text-transform: uppercase;
 
   color: var(--third-text-color);
@@ -545,7 +545,7 @@ a {
 .portfolio-text {
   height: 30px;
   font-size: 16px;
-  line-height: 1 87;
+  line-height: 1.87;
   letter-spacing: 0.03em;
   color: var(--second-text-color);
 }

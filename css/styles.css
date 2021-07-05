@@ -363,7 +363,7 @@ a {
   border: 1px solid #afb1b8;
   border-radius: 4px;
   fill: #afb1b8;
-  padding: 16px 32px;
+  /* padding: 16px 32px; */
 }
 
 .client-link:hover,

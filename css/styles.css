@@ -91,7 +91,6 @@ a {
 
 .header-container {
   display: flex;
-  /* height: 80px; */
 }
 
 .navigation {
@@ -235,6 +234,10 @@ a {
 }
 
 .features-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
@@ -317,8 +320,13 @@ a {
 }
 
 .name {
-  /* padding-top: 30px; */
   margin-bottom: 10px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
+
+  text-align: center;
+  letter-spacing: 0.03em;
 }
 
 .social-list {
@@ -426,6 +434,7 @@ a {
 .footer-wrapper {
   display: flex;
   margin: 0 auto;
+  align-items: baseline;
 }
 .social-group-footer {
   width: 206px;
@@ -548,6 +557,10 @@ a {
   line-height: 1.87;
   letter-spacing: 0.03em;
   color: var(--second-text-color);
+}
+
+.portfolio-link:visited {
+  color: var(--first-text-color);
 }
 
 .card-content {
